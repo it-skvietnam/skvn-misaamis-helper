@@ -40,7 +40,7 @@ Nó:
 - Nhân sự – hành chính  
 - Sales/CSKH dùng AMIS CRM  
 - Quản lý vận hành  
-- Bất kỳ ai bị “ép” dùng Misa AMIS nhưng muốn cuộc sống dễ thở hơn  
+- Bất kỳ ai đang dùng Misa AMIS nhưng muốn cuộc sống dễ thở hơn  
 
 ---
 
