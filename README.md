@@ -21,7 +21,8 @@ Nó chỉ làm một việc: **giảm đau**.
 ---
 
 ## 🧩 **Tính năng chính**
-Hiện tại chúng tôi đang lên kế hoạch và cập nhật
+
+Hiện tại chúng tôi đang lên kế hoạch và cập nhật dần dần, Chúng tôi ưu tiên thứ chúng tôi xài
 ---
 
 ## 🛠️ **Cách hoạt động**
