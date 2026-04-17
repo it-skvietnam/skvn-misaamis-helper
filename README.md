@@ -8,7 +8,7 @@ misaamis-helper là bộ công cụ mở rộng dành cho những người đang
 Nếu bạn cảm thấy mình đang “sống chung với deadline”, “điều hòa không mát nhưng Misa thì lag”, hoặc “sếp bảo dùng Misa còn bạn thì phải xoay như chong chóng”, thì đây chính là dự án dành cho bạn.
 
 misaamis-helper không thay thế Misa AMIS.  
-Nó chỉ làm một việc: **giảm đau**.
+Nó chỉ làm một việc: **giảm đau**. Với lại sản phẩm là vibecode, cân nhắc trước khi sử dụng.
 
 ---
 
